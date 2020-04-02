@@ -1,0 +1,17 @@
+{
+  "standard": "WCAG2AA",
+  "level": "error",
+  "defaults": {
+    "timeout": 20000,
+    "wait": 2000,
+    "chromeLaunchConfig": {
+      "args": ["--no-sandbox"],
+      "executablePath": "/usr/bin/chromium-browser"
+    }
+  },
+  "urls": [
+    {
+      "url": "https://jisc.ac.uk"
+    }
+  ]
+}
