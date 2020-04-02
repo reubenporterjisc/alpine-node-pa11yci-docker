@@ -2,11 +2,11 @@
 
 A docker image based off Alpine which enables use of pa11y-ci
 
-# Pull the image from dockerhub
+## Pull the image from dockerhub
 
 `docker pull reubenporter123/alpine-node-pa11yci`
 
-# How to use from this repo
+## How to use from this repo
 
 `docker build --tag alpine-node-pa11y:1.0`
 
