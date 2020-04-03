@@ -6,7 +6,7 @@ https://github.com/pa11y/pa11y-ci
 
 ## Pull the image from dockerhub
 
-`docker pull reubenporter123/alpine-node-pa11yci`
+`docker pull reubenporter123/alpine-node-pa11yci:1.0`
 
 ## How to use from this repo
 
